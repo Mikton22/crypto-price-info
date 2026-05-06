@@ -118,7 +118,7 @@ body {
   padding: 0.75rem 1.25rem;
   border: 1px solid rgba(255, 255, 255, 0.1);
   border-radius: 8px;
-  background: rgba(255, 255, 255, 0.05);
+  background-color: #1e1e1e !important;
   color: #fff;
   font-size: 0.95rem;
   cursor: pointer;
